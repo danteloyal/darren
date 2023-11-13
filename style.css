@@ -1,0 +1,35 @@
+
+p{
+background-color: grey; 
+font-family: newtimes roman;
+font-size: 20px;
+padding: 15px;	
+}
+h1{
+	background-color: orange;
+	
+	font-size: 20px;
+	padding: 16px;
+	border-style: inline;
+	text-align: center;
+}
+h2{
+	background-color: blue;
+	
+	font-family: 15px;
+	padding: 15px
+	border-style: dotted;
+
+}
+ .waat{
+ 	text-align: center;
+ }
+ .gate,.maat{
+ 	text-align: center;
+ }
+.gad{
+	text-align: left;
+}
+.gad1{
+	
+}
